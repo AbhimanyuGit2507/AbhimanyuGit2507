@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AbhimanyuGit2507/AbhimanyuGit2507/main/DSC_0127.JPG" style="border-radius:5%;" width="80%" />
+  <img src="https://raw.githubusercontent.com/AbhimanyuGit2507/AbhimanyuGit2507/main/DSC_0127.JPG" style="border-radius:5%;" width="100%" height="43%" />
 </p>
 
 <h1 align="center">
