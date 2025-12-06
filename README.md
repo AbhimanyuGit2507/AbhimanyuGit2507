@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif?raw=true" width="450" />
+  <img src="https://drive.google.com/file/d/1_rBLknSYu7Mg7CkUeJK6p6g5GbXuCtqe/view?usp=sharing" style="border-radius:5%;" width="80%" />
 </p>
 
 <h1 align="center">
